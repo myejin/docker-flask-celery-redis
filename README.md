@@ -1,7 +1,7 @@
 ## Docker Flask Celery Redis
 
 ### :bulb: Introduction
-<img width="500" alt="introduction" src="https://user-images.githubusercontent.com/42771578/129582479-4cd555e4-c9c9-47d7-b07b-6eb1688acbfb.png"><br><br>
+<img width="520" alt="introduction" src="https://user-images.githubusercontent.com/42771578/129587290-21ba3d40-87d6-4ed4-86c6-f92e0e5f4132.png"><br><br>
 
 ### :bulb: Build & Launch
 ```
